@@ -1,0 +1,10 @@
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\bin\Debug\Kolorii.exe.config
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\bin\Debug\Kolorii.exe
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\bin\Debug\Kolorii.pdb
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.csprojResolveAssemblyReference.cache
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.Form1.resources
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.Properties.Resources.resources
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.csproj.GenerateResource.Cache
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.csproj.CoreCompileInputs.cache
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.exe
+D:\Pr_155\day_6\Kollorii\Kolorii\Kolorii\obj\Debug\Kolorii.pdb
